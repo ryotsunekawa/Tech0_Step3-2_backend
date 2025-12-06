@@ -4,6 +4,8 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+venv/
+.backend/
 
 # Node
 node_modules/
